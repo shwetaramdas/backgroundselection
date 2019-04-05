@@ -1,4 +1,4 @@
-# backgroundselection
+# Background Selection on the Human Genome
 Bed files containing background selection values from McVicker et al 2009
 
 Initial bkgd files downloaded from :
